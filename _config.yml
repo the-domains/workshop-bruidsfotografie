@@ -1,0 +1,28 @@
+name: Workshop Bruidsfotografie
+favicon: null
+layout_spectrum: 0.6271991818211973
+typography_spectrum: 0.9074370863381773
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5505570496898144
+  lightness: 0.49644244252704084
+  saturation: 0.40873049129731953
+  rhythmicContrast: 0.7141380037646741
+purpose: []
